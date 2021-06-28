@@ -9,7 +9,7 @@ the primary focus is helping protect victims of predators and abusers.
 
 areas of concern:
 * victim safety in the event stalkerware comms are blocked
-* discreet alerting/knowledge to protect victim from further harm
+* discreet alerting/detection without blocking to prevent endangering victims
 
 <hr>
 
