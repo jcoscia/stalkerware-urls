@@ -8616,3 +8616,14 @@ zsub.strangled.net
 zuul3.strangled.net
 trackier.vip
 www.trackier.vip
+beta-api.logger.mobi
+www.logger.mobi
+autodiscover.myfonemate.com
+cpanel.myfonemate.com
+cpcalendars.myfonemate.com
+cpcontacts.myfonemate.com
+mail.myfonemate.com
+myfonemate.com
+webdisk.myfonemate.com
+webmail.myfonemate.com
+www.myfonemate.com
