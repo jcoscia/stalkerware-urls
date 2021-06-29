@@ -8365,3 +8365,14 @@ www.mfb.unusualperson.com
 www.unusualperson.com
 yosemite.kdelaney.unusualperson.com
 yuniorv.unusualperson.com
+mspy.com.ar
+www.mspy.com.ar
+67.nav.co.id
+data.nav.co.id
+ftp.nav.co.id
+internal.nav.co.id
+mu.nav.co.id
+my.nav.co.id
+promo.nav.co.id
+search.nav.co.id
+srv-jkt01.nav.co.id
