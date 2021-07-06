@@ -1,112 +1,176 @@
-Subdomain: `.apispyhuman.com`
-	- not sure which product this is
+## SpyHuman
+https://spyhuman.com/
 
-Subdomain: `.appspy.net`
-	AppySpy
-	Android
-	(Depricated - Became TruthSpy)
-	- https://appspy.net/
+Targets Android.
 
-Subdomain: `.catwatchful.com`
-	CatWatchful
-	Android /
-	- https://catwatchful.com/main/
+#### Domains/subdomains:
+ 
+`apispyhuman.com`
+ 
+## AppSpy
+https://appspy.net/
+ 
+Targets Android. Deprecated byTheTruthSpy.
+ 
+#### Domains/subdomains:
+`appspy.net`
 
-Subdomain: `.fortress.net`
-	- (https://fortress.net/) <- this is a UK health care company
+`app.appspy.net`
 
-Subdomain: `.freeandroidspy.com`
-	Free Android Spy
-	Android 
-	- https://www.freeandroidspy.com/
-Subdomain: `.guestspy.com`
-	GuestSpy: Spying & Monitoring
-	Android / iOS(?)
-	- https://guestspy.com/
-Subdomain: `.ispyoo.com`
-	iSpyoo
-	Android / iOS
-	- https://ispyoo.com/
-Subdomain: `.logger.mobi`
-	Easy Logger
-	Android
-	https://logger.mobi/
+## CatWatchful
+https://catwatchful.com/
 
-Subdomain: `.mobispy.net`
-	MobiSpy
-	Android
-	https://www.mobispy.net/
+Targets Android.
 
-Subdomain: `.netspy.net`
-	NetSpy
-	Android
-	https://www.netspy.net/
-	(Looks very similar to AppSpy)
-Subdomain: `.onlinefundb.com`
-	Cell Tracker
-	(2011?)
-	http://www.onlinefundb.com/ (broken at time of commit)
+#### Domains/subdomains:
+`catwatchful.com`
 
-Subdomain: `.reptilicus.net`
-	(Russian)
-	REPTILICUS
-	Android
-	https://reptilicus.net/
+## Fortress
+https://fortress.net/
 
-Subdomain: `.snoopza.com`
-	Snoopza
-	Android
-	https://snoopza.com/
+This is a UK healthcare company. Possible false-positive?
 
-Subdomain: `.spy2mobile.com`
-	Spy To Mobile aggregation software
-	Android
-	https://spytomobile.com/en
+#### Domains/subdomains:
+`fortress.net`
 
-Subdomain: `.tchsrvce.com`
-	(https://mobile.twitter.com/bl4ckh0l3z/status/1384056624713633795)
-	TalkLog
-	Android
-	https://talklog.tools/en/
-		(^ unverified)
+## FreeAndroidSpy
+https://www.freeandroidspy.com/
 
-Subdomain: `.thetruthspy.com`
-	TheTruthSpy - Best Free Phone Spy App
-	Android / iOS
-	(formerly appspy)
-	https://thetruthspy.com/
+Targets Android.
 
+#### Domains/subdomains:
+`freeandroidspy.com`
 
-Subdomain: `.trackmyphones.com`
-	Track My Phone
-	Android
-	https://trackmyphones.com/
-	
-Subdomain: `.wisemo.com`
-	WiseMo
-	Android/iOS/PC/Linux
-	https://www.wisemo.com/
+`server.freeandroidspy.com`
 
-Subdomain: `.xnore.com`
-	Xnore Cell Phone Tracker App
-	Android/iOS/PC/Mac/BlackBerry
-	http://xnore.com/
+## GuestSpy
+https://guestspy.com/
 
-Subdomain: `.spyic.com`
-	Spyic stalkerware, used by the Android version for C2.
-	Android/iOS (iOS apparently abuses iCloud for monitoring)
-	https://spyic.com/
+Targets Android.
 
-Domain: `viptrack.pro`
-	Used by Spyic to ditribute the Android app.
-	Android/iOS (iOS apparently abuses iCloud for monitoring)
-	https://spyic.com/
+#### Domains/subdomains:
+`guestspy.com`
 
+`android.guestspy.com`
 
+## iSpyoo
+https://ispyoo.com/
 
+Targets Android and iOS.
 
+#### Domains/subdomains:
+`ispyoo.com`
 
+## Easy Logger
+https://logger.mobi/
 
+Targets Android.
 
+#### Domains/subdomains:
+`logger.mobi`
 
+## MobiSpy
+https://www.mobispy.net/
 
+Targets Android.
+
+#### Domains/subdomains:
+`mobispy.net`
+
+## NetSpy
+https://www.netspy.net/
+
+Targets Android and iOS. Looks very similar to AppSpy.
+
+#### Domains/subdomains:
+`netspy.net`
+
+`app.netspy.net`
+
+## Cell Tracker
+http://www.onlinefundb.com/
+
+Site broken at time of commit.
+
+#### Domains/subdomains:
+`onlinefundb.com`
+
+## Reptilicus
+https://reptilicus.net/
+
+Targets Android and Windows.
+
+#### Domains/subdomains:
+`reptilicus.net`
+
+## Snoopza
+https://snoopza.com/
+
+Targets Android.
+
+#### Domains/subdomains:
+`snoopza.com`
+
+## Spy to Mobile
+https://spytomobile.com/en
+
+Targets Android.
+
+#### Domains/subdomains:
+`spy2mobile.com`
+
+## TalkLog
+https://talklog.tools/en/
+
+Targets Android.
+
+#### Domains/subdomains:
+`tchsrvce.com` (unverified)
+
+## TheTruthSpy
+https://thetruthspy.com/
+
+Targets Android and iOS.
+
+#### Domains/subdomains:
+`thetruthspy.com`
+
+`android.thetruthspy.com`
+
+## Track My Phones
+https://trackmyphones.com/
+
+https://play.google.com/store/apps/details?id=com.trackmyphone_pro
+
+Targets Android.
+
+#### Domains/subdomains:
+`trackmyphones.com`
+
+## WiseMo
+https://www.wisemo.com/
+
+Targets Android, iOS, Windows, and Linux.
+
+#### Domains/subdomains:
+`wisemo.com`
+
+## Xnore
+https://xnore.com/
+
+Targets Android, iOS, BlackBerry, Windows, and OSX.
+
+#### Domains/subdomains:
+`xnore.com`
+
+## Spyic
+https://spyic.com/
+
+Targets Android and iOS.
+
+#### Domains/subdomains:
+`spyic.com`
+
+`i.spyic.com`
+
+`viptrack.pro`
