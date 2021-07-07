@@ -30989,3 +30989,8 @@ pfsense04.teragence.net
 portainer.teragence.net
 signalchecker.dev.teragence.net
 test-controller.dev.teragence.net
+pctattletalev2.s3.amazonaws.com
+pctattletale.com
+v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
+truewebmedia.com
+www.truewebmedia.com

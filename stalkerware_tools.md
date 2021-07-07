@@ -174,3 +174,19 @@ Targets Android and iOS.
 `i.spyic.com`
 
 `viptrack.pro`
+
+## pcTattletale
+https://www.pctattletale.com/
+
+Targets Android and Windows.
+
+#### Domains/subdomains:
+`pctattletalev2.s3.amazonaws.com`
+
+`v4vw4ytvo4.execute-api.us-east-2.amazonaws.com`
+
+`pctattletale.com`
+
+`truewebmedia.com`
+
+`www.truewebmedia.com`
